@@ -9,7 +9,7 @@
   "serve": "vite preview",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
-},
+}
   {
     "name": "taskflow",
     "version": "1.0.0",
