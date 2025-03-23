@@ -1,26 +1,17 @@
 {
   "name": "taskflow",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "homepage": "https://chukydyk.github.io/Taskflow-",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-  {
-    "name": "Taskflow-",
-    "version": "1.0.0",
-    "private": true,
-    "homepage": "https://chukydyk.github.io/Taskflow-",
-    "dependencies": {
-      "react": "^18.0.0",
-      "..."
-    }
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
-  "dependencies":{
+  "dependencies": {
     "@progress/kendo-react-buttons": "^10.0.0",
     "@progress/kendo-react-charts": "^10.0.0",
     "@progress/kendo-react-dateinputs": "^10.0.0",
